@@ -1,5 +1,8 @@
 # aind2-dl
 
+* Note: The conda environment from this repo (aind-dl) could be created only on Anaconda 3. I tried working on the Anaconda 2 but had several issues. 
+* Also the file aind-dl-mac-linux.yml has been edited to remove the packages like qt, appnope etc. which are for the mac.
+
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
