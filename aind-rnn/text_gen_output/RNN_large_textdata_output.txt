@@ -1,0 +1,20 @@
+-------------------
+input chars = 
+e particularly, were abhorrent to his cold, precise but admirably balanced mind. he was, i take it, "
+predicted chars = 
+i saw hears all this erest to be all the heard in the manter of the singrar mans a compline that the"
+-------------------
+input chars = 
+ler. all emotions, and that one particularly, were abhorrent to his cold, precise but admirably bala"
+predicted chars = 
+in to been, and the corninion brobker. it was not to him.  here it is a strarable th obvery that he "
+-------------------
+input chars = 
+ly, were abhorrent to his cold, precise but admirably balanced mind. he was, i take it, the most per"
+predicted chars = 
+orinar ly sears, and the clang and who erened and i sholl wank of the bell and seeple should be an o"
+-------------------
+input chars = 
+all emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced "
+predicted chars = 
+to be a state to be a stick from he would have a could me arriage and of the strong about his chair "
